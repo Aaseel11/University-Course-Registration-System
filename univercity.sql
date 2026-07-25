@@ -2,7 +2,7 @@
 Database: Oracle SQL (Live SQL)
 Project: University Course Registration System
 Author: Aseel Alanzi
-Year: 2026
+Year: 2025
 */
 
 -- =====================
